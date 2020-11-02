@@ -30,7 +30,7 @@ end
 
 def sorted_matrix
   produce_shelf = [
-    CONVENTIONAL_PRODUCE
+    CONVENTIONAL_PRODUCE,
     ORGANIC_PRODUCE
   ]
   # Using Array literal syntax only, build another nested array that 
