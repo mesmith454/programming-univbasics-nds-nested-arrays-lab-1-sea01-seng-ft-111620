@@ -29,7 +29,7 @@ def assembled_matrix
 end
 
 def sorted_matrix
-  produce_shelf [
+  produce_shelf = [
     CONVENTIONAL_PRODUCE
     ORGANIC_PRODUCE
   ]
